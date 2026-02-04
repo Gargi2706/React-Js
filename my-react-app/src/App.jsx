@@ -10,6 +10,9 @@ import Contacts from "./Contacts.jsx";
 import Entry from "./components/Entry.jsx";
 import emojipedia from "./components/emojipedia.js";
 
+
+
+
 function createCard(contacts) {
   return (
     <Props
@@ -111,6 +114,8 @@ function App() {
       {/* const newNumbers = numbers.find(num => num > 10);     find() using arrow function */}
 
       {/* const newNumbers = numbers.findIndex(num => num > 10);     findIndex() using arrow function */}
+
+    
     </div>
   );
 }

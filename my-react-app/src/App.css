@@ -22,6 +22,7 @@ ul{
   height: 200px;
   box-shadow: 0 2px 5px #ccc;
   color: black;
+  width: 300px;
 }
 .top{
   border-radius: 30px 30px 0 0;
@@ -60,8 +61,7 @@ ul{
 
 .dictionary {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  
   margin: 4rem auto;
   max-width: 90%;
   height: 100%;
